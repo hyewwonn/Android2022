@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="152e6126-3bad-4482-83c7-448e53df4bb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../And0728_02_menudlegTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0728_03_login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0728_03_optionMenu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0729_04_Diary_SDMem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0729_05_Quiz_SDMem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_01_activity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/androidTest/java/com/cookandroid/and0801_02_activityone/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/java/com/cookandroid/and0801_02_activityone/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/java/com/cookandroid/and0801_02_activityone/SecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/java/com/cookandroid/and0801_02_activityone/ThirdActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/layout/activity_third.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/app/src/test/java/com/cookandroid/and0801_02_activityone/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_02_activityOne/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/androidTest/java/com/cookandroid/and0801_03_activityput/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/java/com/cookandroid/and0801_03_activityput/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/java/com/cookandroid/and0801_03_activityput/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/java/com/cookandroid/and0801_03_activityput/SecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/app/src/test/java/com/cookandroid/and0801_03_activityput/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_03_activityPut/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/androidTest/java/com/cookandroid/and0801_04/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/java/com/cookandroid/and0801_04/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/java/com/cookandroid/and0801_04/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/java/com/cookandroid/and0801_04/SecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/app/src/test/java/com/cookandroid/and0801_04/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0801_04/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_01_act_twoWay/app/src/main/java/com/cookandroid/and0802_01_act_twoway/SecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_01_act_twoWay/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/java/com/cookandroid/and0802_06_cuslist/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/java/com/cookandroid/and0802_06_cuslist/MovieAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/drawable/mov21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0802_06_Cuslist/app/src/main/res/layout/listitem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/java/com/cookandroid/and0803_01_carlist/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/java/com/cookandroid/and0803_01_carlist/CarAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/drawable/car1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/drawable/car10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/drawable/car2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/drawable/car3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/drawable/car4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/drawable/car5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/drawable/car6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/drawable/car7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/drawable/car8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/drawable/car9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_01_CarList/app/src/main/res/layout/listitem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/androidTest/java/com/cookandroid/and0803_02_db1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/java/com/cookandroid/and0803_02_db1/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/java/com/cookandroid/and0803_02_db1/MyDBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/layout/delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/layout/update.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/app/src/test/java/com/cookandroid/and0803_02_db1/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0803_02_DB1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_01_DBCurAdp/app/src/main/java/com/cookandroid/and0804_01_dbcuradp/ContactAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_01_DBCurAdp/app/src/main/java/com/cookandroid/and0804_01_dbcuradp/MyDBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_01_DBCurAdp/app/src/main/res/layout/list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/androidTest/java/com/cookandroid/and0804_02_dbcuradpidol/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/java/com/cookandroid/and0804_02_dbcuradpidol/IdolAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/java/com/cookandroid/and0804_02_dbcuradpidol/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/java/com/cookandroid/and0804_02_dbcuradpidol/MyDBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/layout/delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/layout/update.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/app/src/test/java/com/cookandroid/and0804_02_dbcuradpidol/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../And0804_02_DBCurAdpIdol/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\CookAndroid\.android\avd\Pixel_2_API_31.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2CsOZpZgzlsV1hRB1FpTEj4RYCh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="And0804_03_DBDiary.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="152e6126-3bad-4482-83c7-448e53df4bb9" name="Default Changelist" comment="" />
+      <created>1659587883875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659587883875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

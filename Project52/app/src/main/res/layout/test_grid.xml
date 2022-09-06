@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#D8BDFF"
+        android:text="[양혜원]메뉴정리"
+        android:textSize="30dp" />
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:rowCount="3" android:columnCount="2" >
+        <TextView android:gravity="right"
+            android:text="이름"
+            android:layout_width="0dp"
+            android:layout_columnWeight="1" />
+            <EditText android:layout_width="0dp"
+                android:layout_columnWeight="1"
+                android:hint="이름을 입력하세요"
+                android:layout_marginLeft="20dp" />
+        <Button android:text="전화번호"
+            android:layout_width="0dp"
+            android:layout_columnWeight="1" />
+        <EditText android:layout_width="0dp"
+            android:layout_columnWeight="1"
+            android:hint="전번입력하세요"
+            android:layout_marginLeft="20dp" />
+        <Button android:text="성별"
+            android:layout_width="0dp"
+            android:layout_columnWeight="1" />
+        <EditText android:layout_width="0dp"
+            android:layout_columnWeight="1"
+            android:hint="성별입력하세요"
+            android:layout_marginLeft="20dp" />
+
+    </GridLayout>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="가  입" />
+
+</LinearLayout>

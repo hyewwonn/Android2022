@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="나만의 일기장"
+        android:textSize="50dp"
+        android:textColor="#C18DED"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnWrite"
+            android:layout_marginHorizontal="70dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#5BC5DF"
+            android:text="쓰기"
+            android:textSize="20dp"/>
+        <Button
+            android:id="@+id/btnList"
+            android:layout_marginTop="20dp"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#98E88A"
+            android:text="목록"
+            android:textSize="20dp"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/btnDel"
+        android:layout_marginTop="10dp"
+        android:visibility="gone"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#D55DBB"
+        android:text="삭제하기"
+        android:textSize="20dp"/>
+
+
+</LinearLayout>

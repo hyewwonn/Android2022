@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="010-0000-0000"
+        android:id="@+id/item010" />
+    <item android:title="017-1234-5678"
+        android:id="@+id/item017" />
+</menu>

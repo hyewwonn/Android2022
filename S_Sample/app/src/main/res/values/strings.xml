@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">S_Sample</string>
+    <string name="btn_name">버튼 이름입니다.</string>
+
+</resources>

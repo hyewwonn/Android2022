@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="메뉴 주문 개수를 넣어주세요"
+        android:textSize="30dp" />
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:background="#FFD7D5"
+        android:padding="20dp">
+        <TableRow>
+            <TextView
+                android:text="피자(25000원)"
+                android:textSize="20dp" />
+            <EditText
+                android:id="@+id/edPizza"
+                android:layout_width="0dp"
+                android:layout_marginLeft="50dp"
+                android:layout_weight="1"
+                android:inputType="numberDecimal"
+                android:text="0"
+                android:textSize="20dp" />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="스파게티(15000원)"
+                android:textSize="20dp" />
+            <EditText
+                android:id="@+id/edSpa"
+                android:layout_width="0dp"
+                android:layout_marginLeft="50dp"
+                android:layout_weight="1"
+                android:inputType="numberDecimal"
+                android:text="0"
+                android:textSize="20dp" />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="샐러드(10000원)"
+                android:textSize="20dp" />
+            <EditText
+                android:id="@+id/edSla"
+                android:layout_width="0dp"
+                android:layout_marginLeft="50dp"
+                android:layout_weight="1"
+                android:inputType="numberDecimal"
+                android:text="0"
+                android:textSize="20dp" />
+        </TableRow>
+        <CheckBox
+            android:id="@+id/chkMemCard"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:text="멤버쉽 카드 있음(20% 할인)"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/btnCal"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#DF6790"
+            android:text="금액 계산하기"
+            android:textSize="20dp" />
+        <Button
+            android:id="@+id/btnReset"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#DF6790"
+            android:text="초기화하기"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/txtNum"
+            android:layout_marginTop="20dp"
+            android:text="주문개수 : 0"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/txtTotal"
+            android:layout_marginTop="20dp"
+            android:text="주문금액 : 0"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+    </TableLayout>
+</LinearLayout>

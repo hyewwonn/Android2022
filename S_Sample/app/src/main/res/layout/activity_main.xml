@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="선택 시작"
+        android:textSize="20dp"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="시작함"
+        android:textSize="20dp"
+        android:id="@+id/chk"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="좋아하는 동물을 선택하세요."
+        android:textSize="20dp"
+        android:id="@+id/txtPet"
+        android:visibility="invisible"/>
+    <RadioGroup android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rg">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="강아지" android:checked="true"
+            android:textSize="20dp"
+            android:id="@+id/rdoDog"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="고양이"
+            android:textSize="20dp"
+            android:id="@+id/rdoCat"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="토끼"
+            android:textSize="20dp"
+            android:id="@+id/rdoRabbit"/>
+    </RadioGroup>
+    <Button android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="종료" android:id="@+id/btnOK"/>
+    <ImageView android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/dog"
+        android:id="@+id/img"/>
+</LinearLayout>

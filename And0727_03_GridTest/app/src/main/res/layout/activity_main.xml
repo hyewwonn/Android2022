@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="주문하실 메뉴를 선택한 뒤 [선택완료]클릭해주세요." />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="5"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*메뉴종류*" />
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_rowSpan="4"
+            android:id="@+id/imgv"/>
+
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rg">
+
+            <RadioButton
+                android:id="@+id/seafood"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="해물 파스타(9,500원)" />
+
+            <RadioButton
+                android:id="@+id/tomato"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="토마토 파스타(9,000원)" />
+
+            <RadioButton
+                android:id="@+id/carbonara"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="까르보나라(9,500원)" />
+        </RadioGroup>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnSpan="2"
+            android:layout_gravity="center"
+            android:text="선택 완료"
+            android:id="@+id/btn"/>
+    </GridLayout>
+
+</LinearLayout>

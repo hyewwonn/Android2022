@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFEB3B"
+        android:text="수도 맞추기 퀴즈"
+        android:textSize="30dp"
+        android:gravity="center_horizontal"
+        android:layout_margin="10dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="문제 - "
+        android:textSize="20dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/tvNum"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#B5B5B5"
+        android:text="문제"
+        android:gravity="center_horizontal"
+        android:textSize="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/tvQuiz"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#A7FF42"
+        android:text="OX"
+        android:gravity="center_horizontal"
+        android:textSize="20dp"
+        android:id="@+id/tvOX"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center">
+        <EditText
+            android:layout_width="280dp"
+            android:layout_height="match_parent"
+            android:id="@+id/edAns"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:text="입력"
+            android:id="@+id/btnIn"
+            android:enabled="false"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/black"
+            android:text="시작"
+            android:layout_margin="5dp"
+            android:id="@+id/btnStart"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/black"
+            android:text="다음"
+            android:layout_margin="5dp"
+            android:id="@+id/btnNext"
+            android:enabled="false"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="*프로그램 설명*"
+        android:textColor="#F12C1E">
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="게임 시작은 '시작'버튼 클릭!!"
+        android:textColor="#F12C1E"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="다시 풀고 싶으면 '메뉴' 클릭!!"
+        android:textColor="#F12C1E"/>
+
+
+</LinearLayout>

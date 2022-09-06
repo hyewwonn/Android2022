@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="3" >
+        <Button android:text="메뉴1" android:layout_margin="5dp"
+            android:backgroundTint="#3691FF"
+            android:layout_width="0dp"
+            android:layout_columnWeight="1"
+            android:id="@+id/btn1" />
+        <Button android:text="메뉴2" android:layout_margin="5dp"
+            android:backgroundTint="#77808A"
+            android:layout_width="0dp"
+            android:layout_columnWeight="1"
+            android:id="@+id/btn2" />
+        <Button android:text="메뉴3" android:layout_margin="5dp"
+            android:backgroundTint="#77808A"
+            android:layout_width="0dp"
+            android:layout_columnWeight="1"
+            android:id="@+id/btn3" />
+
+    </GridLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="메뉴1 선택함"
+            android:textSize="30dp"
+            android:background="#DADADA"
+            android:id="@+id/txt1"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="메뉴2 선택함"
+            android:textSize="30dp"
+            android:background="#DADADA"
+            android:id="@+id/txt2"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="메뉴3 선택함"
+            android:textSize="30dp"
+            android:background="#DADADA"
+            android:id="@+id/txt3"/>
+    </FrameLayout>
+
+
+
+</LinearLayout>
